@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Train.cs">
+    <Files>
+      <File FileName="Assets\scripts\Train.cs" Line="22" Column="1" />
+      <File FileName="Assets\scripts\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MovementMobile.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Respawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\ruch.cs" Line="1" Column="1" />
+      <File FileName="Assets\aktualne.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\przyspieszacz.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Crystal.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Finish.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Background.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameOverTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\newGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\LevelName.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
